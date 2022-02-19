@@ -1,0 +1,12 @@
+name = "PATCO Hi-Speed Line"
+description = "Hi-Speed Line from Lindenwold NJ to Philadelphia PA"
+display_name = "PATCO"
+country_code = "US"
+rly_file = "PATCO.rly"
+ttb_files = ["P261-Sunday-0000-0600.ttb"]
+year = 2021
+factual = true
+author = "Andrew Jones"
+release_date = "2022-02-19"
+version = "1.0.0"
+difficulty = 2
